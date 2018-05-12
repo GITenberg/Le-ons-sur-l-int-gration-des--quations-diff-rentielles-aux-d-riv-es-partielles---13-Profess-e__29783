@@ -1,0 +1,31 @@
+_repo: Le-ons-sur-l-int-gration-des--quations-diff-rentielles-aux-d-riv-es-partielles---13-Profess-e__29783
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Volterra, Vito
+    alias: Volterra, V. (Vito)
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '34164'
+    url: http://www.gutenberg.org/2009/agents/34164
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- FR Sciences et Techniques
+gutenberg_issued: '2009-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29783'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science'
+- !lcc 'QA'
+title: "Leçons sur l'intégration des équations différentielles aux dérivées partielles,\r\
+  \nProfessées à Stockholm sur l'invitation de S. M. le Roi de Suède"
+url: http://www.gutenberg.org/ebooks/29783
